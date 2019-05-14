@@ -1,0 +1,180 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.17.33
+  Changes:
+    - Made compatible with game version 0.17.35
+---------------------------------------------------------------------------------------------------
+Version: 0.17.32
+  Features:
+    - Made compatible with "Rocket-Silo Construction" mod
+---------------------------------------------------------------------------------------------------
+Version: 0.17.31
+  Changes:
+    - Updated to game version 0.17.23
+---------------------------------------------------------------------------------------------------
+Version: 0.17.30
+  Changes:
+    - Changed some recipes to be compatible with other mods
+---------------------------------------------------------------------------------------------------
+Version: 0.17.29
+  Changes:
+    - Updated to game version 0.17.12
+---------------------------------------------------------------------------------------------------
+Version: 0.17.28
+  Changes:
+    - Worm Boss appears a little later
+  Bugfixes:
+    - Rocket launch crash fix
+---------------------------------------------------------------------------------------------------
+Version: 0.17.27
+  Bugfixes:
+    - Fixed Worm Boss crash
+---------------------------------------------------------------------------------------------------
+Version: 0.17.26
+  Changes:
+    - Removed optional dependency on NE
+    - Changed the Boss Worm attacks to the new fire stream
+---------------------------------------------------------------------------------------------------
+Version: 0.17.25
+  Bugfixes:
+    - Fixed crash with Bob's Warfare
+---------------------------------------------------------------------------------------------------
+Version: 0.17.24
+  Info:
+    - Updated to Factorio 0.17
+  Changes:
+    - Freeman can research his crowbar (faster than steel axe)
+  Locale:
+    - English
+    - Brazilian Portuguese
+---------------------------------------------------------------------------------------------------
+Version: 0.16.23
+  Changes:
+    - Reduced Atomic Bomb Cargo size
+    - Tweaked Giant Worm boss attacks, resistances and HP
+---------------------------------------------------------------------------------------------------
+Version: 0.16.22
+  Changes:
+    - Made Giant Worm boss shoot less
+  Bugfixes:
+    - Fixed an English localization string (mission text)
+---------------------------------------------------------------------------------------------------
+Version: 0.16.21
+  Bugfixes:
+    - Fixed another crash
+---------------------------------------------------------------------------------------------------
+Version: 0.16.20
+  Bugfixes:
+    - Fixed a crash when Maximize technologies are researched
+---------------------------------------------------------------------------------------------------
+Version: 0.16.19
+  Bugfixes:
+    - Fixed a reported crash
+---------------------------------------------------------------------------------------------------
+Version: 0.16.18
+  Changes:
+    - Removed the GUI option to not show minicameras that was crashing sometimes
+    - Cameras will always popup
+---------------------------------------------------------------------------------------------------
+Version: 0.16.17
+  Bugfixes:
+    - GUI error fix
+---------------------------------------------------------------------------------------------------
+Version: 0.16.16
+  Features:
+    - New enemy boss added
+    - New techonologies and recipes to maximize production of advanced circuits and modules
+  Changes:
+    - Some GUI changes, including small cameras to show special events locations
+---------------------------------------------------------------------------------------------------
+Version: 0.16.15
+  Changes:
+    - Changed the initial shipwreck battery to be visible
+    - More initial items in a new game and some technologies tweaks
+---------------------------------------------------------------------------------------------------
+Version: 0.16.14
+  Changes:
+    - One of the initial shipwrecks can now provide some energy (new games only) and will not pulse shock
+  Bugfixes:
+    - Fixed the technology reset problem when called by other mods' updates
+---------------------------------------------------------------------------------------------------
+Version: 0.16.13
+  Changes:
+    - Better items found in machines and military shipwrecks (they will not fall on water)
+---------------------------------------------------------------------------------------------------
+Version: 0.16.11
+  Changes:
+    - New recipes for Gordon Freeman
+    - GlaDOS can be assembled as a unique construction robot
+    - All rocket cargo deliveries now give 300 space science packs each
+---------------------------------------------------------------------------------------------------
+Version: 0.16.10
+  Features:
+    - New side quest: Freeman may research a place where it is possible to double the production of Processing Units
+---------------------------------------------------------------------------------------------------
+Version: 0.16.9
+  Changes:
+    - Integration with RPGSystem mod (quests will give xp)
+    - Added sounds to Alerto for repair events
+---------------------------------------------------------------------------------------------------
+Version: 0.16.7
+  Features:
+    - New secondary quest for Omega Drill mod
+  Changes:
+    - Rescuing Freeman and HAL now requires tools and some time in the shipwreck
+    - Changed technology prototypes for better compatibility
+    - Added option to remove oil from starting area
+---------------------------------------------------------------------------------------------------
+Version: 0.16.6
+  Bugfixes:
+    - Fixed some bugs
+---------------------------------------------------------------------------------------------------
+Version: 0.16.5
+  Bugfixes:
+    - Fixed some bugs
+---------------------------------------------------------------------------------------------------
+Version: 0.16.4
+  Bugfixes:
+    - Fixed some bugs
+---------------------------------------------------------------------------------------------------
+Version: 0.16.3
+  Bugfixes:
+    - Fixed some bugs
+---------------------------------------------------------------------------------------------------
+Version: 0.16.2
+  Bugfixes:
+    - Fixed some bugs
+---------------------------------------------------------------------------------------------------
+Version: 0.16.1
+  Info:
+    - Updated to Factorio 0.16
+  Features:
+    - New artillery cargo for final mission requests
+  Changes:
+    - Some minor changes
+  Locale:
+    - English
+    - Brazilian Portuguese
+---------------------------------------------------------------------------------------------------
+Version: 0.15.13
+  Features:
+    - Added new main mission after rescuing Gordon: kill a giant beast that is darkening the sky
+---------------------------------------------------------------------------------------------------
+Version: 0.15.12
+  Features:
+    - New early quest
+  Changes:
+    - Einstein replaced with Gordon Freeman
+    - Added risk of alien invasion on open portals (and techonologies to avoid this)
+    - Portal-gun recipe changed to be made in blue assembler
+    - Recipes of rocket cargos now require containers
+  Bugfixes:
+    - Fixed several bugs
+---------------------------------------------------------------------------------------------------
+Version: 0.15.7
+  Features:
+    - Added secondary missions and technology jobs for GlaDOS, Gordon and HAL-9000
+  Changes:
+    - Added support for player tags
+  Locale:
+    - English
+    - Brazilian Portuguese

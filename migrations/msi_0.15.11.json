@@ -1,0 +1,16 @@
+{
+  "item":
+  [
+    ["space-einstein", "gordon-freeman"]
+  ],
+  "recipe":
+  [
+    ["einstein-science", "gordon-freeman-science"]
+  ],
+  "technology":
+  [
+    ["einstein-science-tech", "gordon-freeman-science-tech"]
+  ]
+
+  
+}

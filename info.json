@@ -1,0 +1,11 @@
+{
+	"name":"Mining-Space-Industries",
+	"author":"MFerrari",
+	"version":"0.17.34",
+	"title":"Mining Space Industries",
+	"homepage":"https://forums.factorio.com/viewtopic.php?f=94&t=53181",
+	"contact": "ferrarimaf@gmail.com",
+	"description": "This is a story driven mod: your team was hired by MSi (Mining Space Industries) with a purpose: extract mineral riches from a distant planet. But you had a terrible accident when landing. Will you be able to accomplish the task you where hired for?",
+	"factorio_version":"0.17",
+	"dependencies": ["base >= 0.16.0","? Portals","? bobenemies", "? bobwarfare","? OmegaDrill", "? SimpleSilicon"]
+}
